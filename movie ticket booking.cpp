@@ -128,7 +128,6 @@ public:
 
 BookingManager* BookingManager::instance = nullptr;
 
-// ---------- Main ----------
 int main() {
     BookingManager* mgr = BookingManager::getInstance();
     mgr->addShow(1, Show(1, 5, 200));
