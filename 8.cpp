@@ -1,4 +1,5 @@
 class Solution {
+//leetcode potd
 public:
     vector<int> leftRightDifference(vector<int>& nums) {
         int n = nums.size();
