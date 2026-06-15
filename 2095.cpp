@@ -1,6 +1,6 @@
 class Solution {
 public:
-//leetcode_POTD
+//leetcode POTD
     ListNode* deleteMiddle(ListNode* head) {
         if (!head->next) return nullptr;
 
