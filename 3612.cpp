@@ -1,6 +1,6 @@
 class Solution {
 public:
-//leetcode  POTD
+//leetcode POTD
     string processStr(string s) {
         string result = "";
         for (auto it : s) {
