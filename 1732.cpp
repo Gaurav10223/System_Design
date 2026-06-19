@@ -1,5 +1,6 @@
 class Solution {
 public:
+// leetcode POTD
     int largestAltitude(vector<int>& gain) {
         int currentAltitude = 0;
         // Highest altitude currently is 0.
