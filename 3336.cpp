@@ -1,5 +1,3 @@
-
-
 //leetcode potd
 class Solution {
     static constexpr int MOD = 1e9 + 7;
