@@ -1,5 +1,5 @@
 class Solution {
-// leetcode potd
+// leetcode potd 
 public:
     vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
         int m = *max_element(nums.begin(), nums.end());
