@@ -2,7 +2,6 @@
 using namespace std;
 // gfg potd
 
-// Process all queries and determine whether
 // each subarray forms a mountain.
 vector<bool> processQueries(vector<int> &arr,
                             vector<vector<int>> &queries) {
