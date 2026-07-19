@@ -2,7 +2,6 @@
 using namespace std;
 // gfg potd
 
-// each subarray forms a mountain.
 vector<bool> processQueries(vector<int> &arr,
                             vector<vector<int>> &queries) {
     int n = arr.size();
