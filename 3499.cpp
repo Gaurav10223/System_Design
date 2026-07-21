@@ -1,5 +1,6 @@
 class Solution {
 public:
+// leetcode potd
     int maxActiveSectionsAfterTrade(string s) {
         int n = s.size();
         int cnt1 = count(s.begin(), s.end(), '1');
